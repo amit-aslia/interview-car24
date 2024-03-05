@@ -1,0 +1,23 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  overflow-y: auto;
+}
+
+.listContainer {
+  padding: 16px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 8px;
+}
+
+.button {
+  margin: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  background-color: black;
+  border-radius: 8px;
+  color: white
+}
